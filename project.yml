@@ -1,0 +1,5 @@
+packages:
+  - name: owls
+    actions:
+      - name: owls-panel
+        runtime: 'python:default'
