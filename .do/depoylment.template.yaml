@@ -6,7 +6,7 @@ functions:
     branch: main
     deploy_on_push: true
     repo: bmorris3/owls-panel
-  name: owls-panel
+  name: owls-api 
   routes:
   - path: /
   source_dir: /
